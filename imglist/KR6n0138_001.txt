@@ -1,0 +1,7 @@
+001-0439a00	X 001-0439a	buddhist/X-xuzang/X55/04/X55-0439.png
+001-0439b00	X 001-0439b	buddhist/X-xuzang/X55/04/X55-0439.png
+001-0439c00	X 001-0439c	buddhist/X-xuzang/X55/04/X55-0439.png
+001-0440a00	X 001-0440a	buddhist/X-xuzang/X55/04/X55-0440.png
+001-0440b00	X 001-0440b	buddhist/X-xuzang/X55/04/X55-0440.png
+001-0440c00	X 001-0440c	buddhist/X-xuzang/X55/04/X55-0440.png
+001-0441a00	X 001-0441a	buddhist/X-xuzang/X55/04/X55-0441.png
